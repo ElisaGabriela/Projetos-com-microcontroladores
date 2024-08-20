@@ -1,4 +1,4 @@
-# Aula 01 - 29/02
+# Aula 01
 
 Fazer um LED externo piscar, ao invés do LED on-board:
 
